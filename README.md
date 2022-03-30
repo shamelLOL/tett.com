@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Testing
 
 You can use the [editor on GitHub](https://github.com/shamelLOL/tett.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](![image](https://user-images.githubusercontent.com/93146486/160845005-74f00036-ebbf-4759-8001-d030d5263d15.png)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
